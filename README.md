@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science and Engineering at Jahangirnagar University.
 
-![Banner](URL-to-your-banner-image)
+
 
 ## About Me
 
