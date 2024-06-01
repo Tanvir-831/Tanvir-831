@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science
 - 🎓 **Education:** B.Sc. in CSE at Jahangirnagar University
 - 🌱 **Currently Learning:** Digital Image Processing, Python , and Machine learning
 - 👯 **Looking to Collaborate on:** Open source projects,AI,ML and software development
-- 📫 **How to Reach Me:** [Ytanvirhossainsaon176@gmail.com]
+- 📫 **How to Reach Me:** [tanvirhossainsaon176@gmail.com]
 
 ## Skills
 
