@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvir-831&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-831&layout=compact&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-831&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tanvir-831&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
