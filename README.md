@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science
 ## Additional Stats and Graphs
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanvir-831&theme=radical&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=Tanvir-831&theme=radical" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-831&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true" />
 </div>
 
