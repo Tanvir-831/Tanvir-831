@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvir-831&show_icons=true&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-831&layout=compact&theme=radical&hide_border=true" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-831&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Tanvir-831&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir-831&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
 </div>
 
 ---
@@ -40,11 +40,19 @@ Welcome to my GitHub profile! I'm a student pursuing a B.Sc. in Computer Science
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tanvir-831&theme=radical&hide_border=true" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-831&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanvir-831&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-831&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanvir-831&theme=radical" />
+</div>
+
+---
+
+## Additional Stats and Graphs
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanvir-831&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-831&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true" />
 </div>
 
 ---
